@@ -14,8 +14,8 @@ a:focus,
 a:active,
 a.active,
 a-default {
-  color: #c78d8d!important;
-  background-color: #c78d8d;
+  color: rgb(223, 46, 46)!important;
+  background-color: #e6e6e6;
   border-color: #6c757d;
 }
 
@@ -25,8 +25,8 @@ a-default {
 .btn.btn-sm:active,
 .btn.active,
 .btn.btn-sm-default {
-  color: #c78d8d;
-  background-color: #c78d8d;
+  color: rgb(214, 9, 9);
+  background-color: #e6e6e6;
   border-color: #6c757d;
 }
 
@@ -157,5 +157,5 @@ footer p {
 
 a.social {
   color: rgb(0, 0, 0)!important;
-  background-color: #343a40;
+  background-color: #343a40                                                                                                                                                                                                                                                                                                                                     ;
 }

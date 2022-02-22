@@ -15,7 +15,9 @@
   ## About the Project
   <p></p>
 
-
+<p> This is verison one of my personal portfolio. Stay tune for more </p>
+</br>
+</br>
 <!--<a href="https://blackcat-tinkerngineers.github.io/professional-portfolio/">https://blackcat-tinkerngineers.github.io/professional-portfolio/</a>-->
 
   
@@ -26,7 +28,7 @@
 
 ## Built With
 
-
+<p> HTML, CSS, JQuery </p>
 <br>
 </br>
 <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
@@ -41,7 +43,7 @@
 
 ## Installation
 
-
+<p> No special installations needed </p>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
